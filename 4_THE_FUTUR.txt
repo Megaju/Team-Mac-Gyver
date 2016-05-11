@@ -1,0 +1,13 @@
+Quelques idées pour plus tard :
+
+Nav qui reste fixe en haut quand on scroll.
+
+Faire des images codées en CSS.
+
+Revoir ensemble peut être la chartes au niveau des couleurs.
+
+Finir le style du formulaire.
+
+Faire le scroll avec la nav. 
+
+Trouver le moyen d'avoir ce scroll de façon fluide (peut être avec JQuery).
